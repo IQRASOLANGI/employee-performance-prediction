@@ -125,19 +125,4 @@ scikit-learn>=1.2.0
 jupyter>=1.0.0
 nbformat>=5.7.0
 ```
-
----
-
-## Submission Info
-
-| Item | Details |
-|---|---|
-| **Course** | Data Science |
-| **Student** | [Your Name] |
-| **Dataset** | INX Future Inc. Employee Performance |
-| **Assigned** | Week 7 |
-| **Deadline** | End of Week 8 |
-| **Presentation** | Week 8 Demo Day |
-
-
 *Made with Python | Scikit-Learn | Pandas | Matplotlib | Seaborn*
